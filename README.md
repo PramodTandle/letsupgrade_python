@@ -1,4 +1,5 @@
 # letsupgrade_python
+ Assignment 1.
 1)What is Python? What are the ways to install Python on your PC?
 Ans :-1) Python is an interpreted, high-level, general-purpose programming language. 
 2) Its language constructed for the object orienated language and help the programmer to write the clear logical code for the small and large scale projects.
